@@ -41,3 +41,54 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+flutter_*.png
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code related
+.vscode/
+
+# MacOS
+*.DS_Store
+
+# Windows
+*.exe
+*.dll
+*.bat
+*.pdb
+*.tmp
+*.log
+
+# Android related
+*.apk
+*.aar
+*.jks
+
+# iOS related
+*.xcworkspace/
+*.xcuserdata/
+*.xcodeproj/
+*.hmap
+*.ipa
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser*.xccheckout
+*.moved-aside
+DerivedData/
+.idea/
+*.hmap
+*.ipa
+*.xcuserstate
+
+# Firebase related
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
