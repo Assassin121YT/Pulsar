@@ -48,6 +48,8 @@ app.*.map.json
 .pub-cache/
 build/
 flutter_*.png
+flutter-plugins
+flutter-plugins-dependencies
 
 # IntelliJ related
 .idea/
